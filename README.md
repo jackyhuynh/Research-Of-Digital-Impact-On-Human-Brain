@@ -8,6 +8,7 @@ Research paper on how digital devices impact children activities. This is a simp
 - CSS
 - Analyst Research
 - website
+- Notepad++
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -15,8 +16,10 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 What things you need to install the software and how to install them
 - Any web browsers installed.
+- [Notepad++](https://notepad-plus-plus.org/downloads/) - Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GNU General Public License.
+- Based on the powerful editing component Scintilla, Notepad++ is written in C++ and uses pure Win32 API and STL which ensures a higher execution speed and smaller program size. By optimizing as many routines as possible without losing user friendliness, Notepad++ is trying to reduce the world carbon dioxide emissions. When using less CPU power, the PC can throttle down and reduce power consumption, resulting in a greener environment.
 
-### Installing
+## Running the tests
 
 A step by step series of examples that tell you how to get a development environment running: there is no special instruction for installation
 - Download(or Clone) the Code from GitHub respository. click here for the [download instruction](https://www.youtube.com/watch?v=ZbEoOtEtVE8&feature=emb_logo).
@@ -25,14 +28,13 @@ A step by step series of examples that tell you how to get a development environ
 home.html
 ```
 - website should work correctly.
-![alt](https://github.com/jackyhuynh/ResearchOfDigitalImpactOnHumanBrain/blob/main/src/Banner.jpg)
-## Running the tests
 
+![alt](https://github.com/jackyhuynh/ResearchOfDigitalImpactOnHumanBrain/blob/main/src/Banner.JPG)
 
 ## Built With
 
-* [Java Virtual Machine](https://java.com/en/download/)
-* [Eclipse IDE for Windows](https://www.eclipse.org/ide/)
+Any text editor
+* [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 ## Contributing
 
