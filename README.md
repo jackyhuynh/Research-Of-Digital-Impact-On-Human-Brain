@@ -1,5 +1,5 @@
 # Research on Digital Impact Human Brain
-Research paper on how digital devices impact children activities. This is a simpe website build with HTML and CSS. There is not any advance featured is used in this website, but it a must read for parents.
+Research paper on how digital devices impact children's activities. This is a simple website build with HTML and CSS. There is not any advance featured is used in this website, but it a must-read for parents.
 
 ![alt](https://github.com/jackyhuynh/ResearchOfDigitalImpactOnHumanBrain/blob/main/src/FramePic.jpg)
 
