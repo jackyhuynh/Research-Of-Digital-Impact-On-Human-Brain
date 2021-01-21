@@ -1,7 +1,7 @@
 # Research on Digital Impact Human Brain
 Research paper on how digital devices impact children's activities. This is a simple website build with HTML and CSS. There is not any advance featured is used in this website, but the material is quite interesting to me.
 
-![alt](https://github.com/jackyhuynh/ResearchOfDigitalImpactOnHumanBrain/blob/main/src/FramePic.jpg)
+![alt](https://github.com/jackyhuynh/ResearchOfDigitalImpactOnHumanBrain/blob/main/1.%20Digital%20Impact/FramePic.jpg)
 
 ## Technology:
 - HTML
@@ -29,7 +29,7 @@ home.html
 ```
 - website should work correctly.
 
-![alt](https://github.com/jackyhuynh/ResearchOfDigitalImpactOnHumanBrain/blob/main/src/Banner.JPG)
+![alt](https://github.com/jackyhuynh/ResearchOfDigitalImpactOnHumanBrain/blob/main/1.%20Digital%20Impact/Banner.JPG)
 
 ## Built With
 
