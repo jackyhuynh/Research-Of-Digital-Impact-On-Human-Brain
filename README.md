@@ -1,5 +1,8 @@
 # Research on Digital Impact Human Brain
+
 Research paper on how digital devices impact children's activities. This is a simple website build with HTML and CSS. There is not any advance featured is used in this website, but the material is quite interesting to me.
+
+The repo also contain basic form of many small application that can be used as a based to develop your website, feel free to download it. 
 
 ![alt](https://github.com/jackyhuynh/ResearchOfDigitalImpactOnHumanBrain/blob/main/1.%20Digital%20Impact/FramePic.jpg)
 
@@ -7,8 +10,9 @@ Research paper on how digital devices impact children's activities. This is a si
 - HTML
 - CSS
 - Analyst Research
-- website
+- Website
 - Notepad++
+- JavaScript
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
